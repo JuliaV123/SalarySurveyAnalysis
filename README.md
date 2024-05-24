@@ -1,3 +1,3 @@
-# Salary Survey Analysis
+# Salary Survey Data Cleaning
 
-### An exploratory analysis of an uncleaned salary survey dataset focusing on salary trends within different job fields around the United States.
+### Used Excel to do an in-depth cleaning of an uncleaned salary survey dataset from the Ask a Manager blog. 
